@@ -1,0 +1,5 @@
+{
+  "name": "Aether: Zero-Trace",
+  "description": "Aether is a high-security, decentralized communication protocol designed for absolute anonymity. Features include: 100% Ephemeral Storage (RAM-only), End-to-End Encryption (ECDH + AES-GCM), Cryptographic Identity (ECDSA P-256), and a Zero-Trace network architecture. No data is ever persisted to disk, ensuring a forensic-proof communication environment.",
+  "requestFramePermissions": []
+}
